@@ -92,4 +92,4 @@ thiện cụ thể và mô tả ngắn cách triển khai:**
 - [x] `python grade.py` — **100/100** trên máy; điểm exercises do giảng viên có thể điều chỉnh khi đọc nội dung.
 - [x] Cả 4 checkpoint pytest đều pass (**35/35 test**).
 - [x] Tất cả 9 câu trong file này đã được trả lời; các lượt gọi model ở Câu 1.1 và 2.1 được AI hỗ trợ chạy trên máy chung.
-- [ ] Đã copy bài làm vào folder `solution/`, push lên fork và dán link trên trang Lab 1 ở VLearn trước **00:01 ngày 13/09/2026** theo thông báo VLearn Support trên Discord ngày 12/09 (mốc trong README cũ đã được cập nhật).
+- [x] Đã copy bài làm vào folder `solution/`, push lên fork và dán link trên trang Lab 1 ở VLearn; trang xác nhận **5/5 sao, nộp lúc 23:01:01 ngày 12/09/2026**, trước hạn **00:01 ngày 13/09/2026** theo thông báo VLearn Support trên Discord.
